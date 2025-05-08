@@ -45,7 +45,7 @@ The script will generate the specified number of mnemonic phrases, along with th
 ```
 # Important Notes:
 
-• File Handling: The script saves the mnemonic phrases, private keys, and public keys to evm_keys.txt. You can change the filename in the script if desired.
+• File Handling: The script saves the mnemonic phrases, private keys, and public keys to evm_keys.txt. You can change the filename in the script if desired. Thanks
 
 • Security: Ensure proper handling of private keys and mnemonic phrases. Never expose or share them in public or unsecured environments.
 
